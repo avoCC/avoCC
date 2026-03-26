@@ -1,4 +1,4 @@
-# Hi, I'm Alicia Vo👋
+# Hi, I'm Alicia Võ👋
 
 I'm a Research and Data Analyst at [Catalyst California](www.catalystcalifornia.org).  
  
