@@ -1,6 +1,6 @@
 # Hi, I'm Alicia Võ👋
 
-I'm a Research and Data Analyst at [Catalyst California](www.catalystcalifornia.org).  
+I'm a Research and Data Analyst at [Catalyst California](https://www.catalystcalifornia.org).  
  
 ## 🔍 What I Work On
 - Crafting compelling data stories that center equity and justice
