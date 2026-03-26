@@ -18,6 +18,5 @@ I'm a Research and Data Analyst at [Catalyst California](https://www.catalystcal
 ## 🚀 Featured Projects
 
 🔍 **Bold Vision Youth Thriving Survey** – The BVYTS included 62 questions across seven different components of youth thriving in LA County. Read the final report to engage with the rich data amplifying what today's youth need for a brighter future in their own voices. 
-  https://github.com/catalystcalifornia/boldvision_youththriving
 
 ## 📫 Connect With Me on [LinkedIn](https://www.linkedin.com/in/voalicia/)
