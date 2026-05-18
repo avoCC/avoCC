@@ -17,10 +17,10 @@ I'm a Research and Data Analyst at [Catalyst California](https://www.catalystcal
 
 ## 🚀 Featured Projects
 
-🔍 **Bold Vision Youth Thriving Survey** – This survey included 62 questions across seven different components to investigate the state of BIPOC youth thriving in LA County. Components included strong mental health and minds, positive identity and hope, supportive social connections, vibrant communities, safety, cultural identity, and racial equity, opportunity, and inclusion. To read the findings from the survey analysis, please see the report [here](https://github.com/catalystcalifornia/boldvision_youththriving/blob/main/Brighter%20Futures%20Bold%20Vision%20Youth%20Thriving%20Survey%20Report%20Methodology%20Sep%202025.pdf).
+🔍 **Bold Vision Youth Thriving Survey** – This survey included 62 questions across seven different components to investigate the state of BIPOC youth thriving in LA County. Components included strong mental health and minds, positive identity and hope, supportive social connections, vibrant communities, safety, cultural identity, and racial equity, opportunity, and inclusion. See the code repository [here](https://github.com/catalystcalifornia/boldvision_youththriving/tree/main).
 
 🎓 ** How Regional Racial Demographics Affect the Potential for Multiracial Political Coalition ** - My masters thesis uses regression analysis and data visualization. See [blog post](https://voalicia.weebly.com/) and [code repository](https://gitlab.com/avo12/naas-analysis/-/blob/main/README.md?ref_type=heads). 
 
-📈 **RACE COUNTS** - RACE COUNTS exposes inequities in California across seven issues: Democracy, Economic Opportunity, Education, Health Care Access, Healthy Built Environment, Housing, and Safety & Justice. [This online tool](https://racecounts.org) includes 47 county & state indicators, 29 city indicators, and 31 state legislative district indicators.
+📈 **RACE COUNTS** - RACE COUNTS exposes inequities in California across seven issues: Democracy, Economic Opportunity, Education, Health Care Access, Healthy Built Environment, Housing, and Safety & Justice. [This online tool](https://racecounts.org) includes 47 county & state indicators, 29 city indicators, and 31 state legislative district indicators. See code repository [here](https://github.com/catalystcalifornia/RaceCounts).
 
 ## 📫 Connect With Me on [LinkedIn](https://www.linkedin.com/in/voalicia/)
